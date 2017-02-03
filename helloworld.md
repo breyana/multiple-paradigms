@@ -6,6 +6,8 @@
 ### Paragraphs with Italics/Bold
 We're no strangers to love
 You know the *rules* and so do _I_
+
+
 A full **commitment's** what I'm __thinking of__
 You wouldn't get this from any other guy
 
