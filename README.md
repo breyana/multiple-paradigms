@@ -10,6 +10,15 @@ Base repository for the [Multiple Paradigms](https://github.com/GuildCrafts/web-
 
 Work in progress: user will only need to run `npm i` from root directory to install dependencies. User will run `npm test` on terminal to test implementations.
 
+To run the parser:
+```
+npm run parse:oo helloworld.md
+//or
+npm run parse:functional helloworld.md
+//or 
+npm run parse:imperative helloworld.md
+```
+
 ## Usage and Examples
 
 Implement a Markdown parser using three different programming paradigms: **object-oriented**, **functional**, and **imperative**.
